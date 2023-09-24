@@ -1,0 +1,19 @@
+Start testing: Oct 09 22:25 CST
+----------------------------------------------------------
+Unable to find executable: 192.168.56.103
+1/1 Testing: ftp
+1/1 Test: ftp
+Command: "" "0"
+Directory: /home/zhihzen/ftp_client/build
+"ftp" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ftp" end time: Oct 09 22:25 CST
+"ftp" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 09 22:25 CST
